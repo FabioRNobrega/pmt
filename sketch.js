@@ -1,6 +1,6 @@
 function setup()
 {
-  createCanvas(windowHeight, windowWidth);
+  createCanvas(windowWidth, windowHeight);
   background(0);
   rectMode(CENTER);
   noStroke();
